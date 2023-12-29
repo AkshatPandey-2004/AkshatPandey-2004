@@ -1,9 +1,9 @@
+[![](https://visitcount.itsvg.in/api?id=AkshatPandey2004&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hey!!, I'm Akshat Pandey</h1>
 <h3 align="center">I'm Akshat Pandey, a passionate 19-year-old DevOps enthusiast and Coding Genius currently pursuing B.Tech in Computer Science at UPES."</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2F4RCAN3%2F4RCAN3&psig=AOvVaw0L28NNRs22GI9gAc3T9_GR&ust=1703948432482000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDFvuP0tIMDFQAAAAAdAAAAABBT">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshatpandey-2004&label=Profile%20views&color=0e75b6&style=flat" alt="akshatpandey-2004" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
