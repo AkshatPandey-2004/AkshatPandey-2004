@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=AkshatPandey2004&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AkshatPandey-2004.AkshatPandey-2004" />
 
 <h1 align="center">Hey!!, I'm Akshat Pandey</h1>
 
