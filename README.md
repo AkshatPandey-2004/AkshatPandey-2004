@@ -1,6 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=AkshatPandey2004&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hey!!, I'm Akshat Pandey</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshat Pandey!;" />
+</h1>
+
 <h3 align="center">I'm Akshat Pandey, a passionate 19-year-old DevOps enthusiast and Coding Genius currently pursuing B.Tech in Computer Science at UPES."</h3>
 
 
