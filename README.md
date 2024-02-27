@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey!!, I'm Akshat Pandey</h1>
 
-<h3 align="center">I'm Akshat Pandey, a passionate 19-year-old DevOps enthusiast and Coding Genius currently pursuing B.Tech in Computer Science at UPES."</h3>
+<h3 align="center">I'm Akshat Pandey, a passionate 20-year-old DevOps enthusiast and Coding Genius currently pursuing B.Tech in Computer Science at UPES."</h3>
 
 
 
