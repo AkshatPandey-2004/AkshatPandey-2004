@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm Akshat Pandey, a passionate 20-year-old DevOps enthusiast and Coding Genius currently pursuing B.Tech in Computer Science at UPES."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshatpandey-2004" alt="akshatpandey-2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AkshatPandey-2004" alt="akshatpandey-2004" /></a> </p>
 
 
 
